@@ -1,3 +1,5 @@
+#!/usr/bin/env uv run
+
 def main():
     print("Hello from daily-journal!")
 
